@@ -703,7 +703,7 @@
 		<key>jsx-tag-close</key>
 		<dict>
 			<key>begin</key>
-			<string>(&lt;/)([_$a-zA-Z][-$\w.]*(?&lt;!\.|-))</string>
+			<string>(&lt;/)([_$a-zA-Z]*[-$\w.]*(?&lt;!\.|-))</string>
 			<key>beginCaptures</key>
 			<dict>
 				<key>1</key>
